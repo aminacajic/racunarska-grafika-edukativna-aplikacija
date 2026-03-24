@@ -4,7 +4,7 @@ Projekt predstavlja aplikaciju proširene stvarnosti (AR) razvijenu u Unity okru
 
 ## Sadržaj repozitorija
 * **Aplikacija za android:** Sadrži instalacioni fajl (.apk) spreman za testiranje na uređaju.
-* **Model biljke - blender:** Originalni 3D model cvijeta (.fbx) izrađen u Blenderu.
+* **Model biljke - blender:** 3D model cvijeta (.fbx) izrađen u Blenderu.
 * **Renderi:** Vizuelni prikazi gotovog 3D modela iz različitih uglova.
 * **Slika biljke za image recognition:** Fotografija koja služi kao *image target* za aktivaciju AR prikaza.
 * **Opis projektnog zadatka.pdf:** Detaljna dokumentacija o historiji i uzgoju biljke, te dizajnu aplikacije.
