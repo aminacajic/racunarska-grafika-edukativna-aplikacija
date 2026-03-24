@@ -2,7 +2,7 @@
 
 Projekt predstavlja aplikaciju proširene stvarnosti (AR) razvijenu u Unity okruženju, namijenjenu interaktivnom istraživanju tropske biljke **Anturijum** kroz 3D vizualizaciju, edukativne tačke interesa (POI) i kviz znanja.
 
-##Sadržaj repozitorija
+## Sadržaj repozitorija
 * **Aplikacija za android:** Sadrži instalacioni fajl (.apk) spreman za testiranje na uređaju.
 * **Model biljke - blender:** Originalni 3D model cvijeta (.fbx) izrađen u Blenderu.
 * **Renderi:** Vizuelni prikazi gotovog 3D modela iz različitih uglova.
