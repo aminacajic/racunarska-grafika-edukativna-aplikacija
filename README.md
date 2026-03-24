@@ -1,4 +1,4 @@
-# Anturijum – Interaktivna AR aplikacija 
+# Anturijum – interaktivna AR aplikacija 
 
 Projekt predstavlja aplikaciju proširene stvarnosti (AR) razvijenu u Unity okruženju, namijenjenu interaktivnom istraživanju tropske biljke **Anturijum** kroz 3D vizualizaciju, edukativne tačke interesa (POI) i kviz znanja.
 
