@@ -36,5 +36,6 @@ Aplikacija je podijeljena u tri logične cjeline:
 
 ## Autor
 **Amina Čajić** 
-Predmet: Računarska grafika  
-Elektrotehnički fakultet Sarajevo
+
+* Predmet: Računarska grafika  
+* Elektrotehnički fakultet Sarajevo
